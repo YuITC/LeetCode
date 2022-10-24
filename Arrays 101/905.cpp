@@ -1,7 +1,7 @@
-// Source 		: Leetcode problem 905: Move Zeros (https://leetcode.com/problems/sort-array-by-parity/)
-// Type	  		: Arrays
+// Source 		  : Leetcode problem 905: Sort Array By Parity (https://leetcode.com/problems/sort-array-by-parity/)
+// Type	  		  : Arrays
 // Difficulty	: Easy
-// Date   		: 10-24-2022
+// Date   		  : 10-24-2022
 
 /***************************************************************************************************** 
  * Solution   : Two Pointers | O(n)
